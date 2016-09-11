@@ -1,0 +1,3 @@
+[submodule "kQOAuth"]
+	path = kQOAuth
+	url = git@github.com:kypeli/kQOAuth.git
